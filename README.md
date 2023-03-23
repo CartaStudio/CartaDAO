@@ -50,3 +50,6 @@ Allows the buying and selling of Power NFTs, which have both voting power and th
 
 #### GenerativeController
 Allows the buying and selling of Generative NFTs through a built-in DEX, and enables the claiming of rewards in the form of Carta Coins for holding them. [Read More](GenerativeController)
+
+#### SoulBoundController
+Allows SoulBound NFTs to be minted for token gating, character generation, and claiming Carta Coin rewards for generating them.[Read More](SoulBoundController)
