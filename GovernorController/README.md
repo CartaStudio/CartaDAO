@@ -8,7 +8,7 @@ Carta DAO is a decentralized platform that invites users to explore innovative w
 
 ## Smart Contract
 
-**Web3 Initiative:** [Inceptions](https://cartadao.io/inceptions)
+**Web3 Initiative:** [Proposals](https://cartadao.io/proposals)
 
 **Protocol:** [Carta DAO](https://cartadao.io)
 
