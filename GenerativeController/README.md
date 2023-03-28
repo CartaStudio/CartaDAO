@@ -4,11 +4,11 @@ Controller smart contract of the [Carta DAO](https://cartadao.io) protocol.
 
 [https://cartadao.io](https://cartadao.io)
 
-Carta DAO is a decentralized platform that invites users to explore innovative web3 projects and earn Carta Coins through holding collectibles and participating in votes.
+Carta DAO is a decentralized platform that invites users to explore innovative web3 initiatives and earn Carta Coins through holding collectibles and participating in votes.
 
 ## Smart Contract
 
-**Project:** [AGI](https://cartadao.io/agi)
+**Web3 Initiative:** [AGI](https://cartadao.io/agi)
 
 **Protocol:** [Carta DAO](https://cartadao.io)
 

@@ -4,11 +4,11 @@ Controller smart contract of the [Carta DAO](https://cartadao.io) protocol.
 
 [https://cartadao.io](https://cartadao.io)
 
-Carta DAO is a decentralized platform that invites users to explore innovative web3 projects and earn Carta Coins through holding collectibles and participating in votes.
+Carta DAO is a decentralized platform that invites users to explore innovative web3 initiatives and earn Carta Coins through holding collectibles and participating in votes.
 
 ## Smart Contract
 
-**Project:** [SoulBound](https://cartadao.io/soulbound)
+**Web3 Initiative:** [SoulBound](https://cartadao.io/soulbound)
 
 **Protocol:** [Carta DAO](https://cartadao.io)
 
@@ -29,12 +29,12 @@ The SoulBound NFTs have the purpose of token gating to allow their holders acces
 
 SoulBound NFTs can also be delegated, allowing their owners to keep them in a secure wallet while delegating the right to claim earnings to another individual. This separation of ownership and earnings claims increases security. Delegation can be adjusted by the NFT owner at any time.
 
-As a tertiary function, the SoulBoundController serves as holder for raffled NFTs of other internal projects whose earning rights have been delegated to the winners.
+As a tertiary function, the SoulBoundController serves as holder for raffled NFTs of other internal initiatives whose earning rights have been delegated to the winners.
 
 > #### Good to Know
 > SoulBound collectibles serve as a ticket to valuable giveaways and more.
 > ***
-> To participate, [join our discord](https://discord.com/invite/cBfnKgDkGb) community, [register your username](https://cartadao.io/soulbound) and take part in our regular giveaways. 
+> To participate, [join our discord](https://discord.com/invite/cBfnKgDkGb) community, [register your username](https://cartadao.io/soulbound) and take part in our regular giveaways.
 
 
 ## Executable Code
