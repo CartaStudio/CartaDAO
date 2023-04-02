@@ -32,8 +32,10 @@ A decentralized token swap protocol for ERC-1155 tokens, with DEX functionality 
 A smart contract that makes proposals on behalf of Carta Studio, with the potential to be replaced by a vote allowing all eligible members to make proposals. [Read More](Deputy)
 
 #### Utils
-A helper smart contract with read-only functionality, providing structured asset data to the view. [Read More](Utils)
+A smart contract thath holds delegatable NFTs on behalf of all members of Carta DAO. [Read More](DelegatableVault)
 
+#### Utils
+A helper smart contract with read-only functionality, providing structured asset data to the view. [Read More](Utils)
 
 #### UniswapV2Pair
 A smart contract created by the Quickswap v2 protocol, allowing for the swapping of ERC-20 tokens. Manages the liquidity of Carta Coin paired with USDC stablecoin. [Read More](UniswapV2Pair)
