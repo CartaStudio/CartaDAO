@@ -31,7 +31,7 @@ A decentralized token swap protocol for ERC-1155 tokens, with DEX functionality 
 #### Deputy
 A smart contract that makes proposals on behalf of Carta Studio, with the potential to be replaced by a vote allowing all eligible members to make proposals. [Read More](Deputy)
 
-#### Utils
+#### DelegatableVault
 A smart contract thath holds delegatable NFTs on behalf of all members of Carta DAO. [Read More](DelegatableVault)
 
 #### Utils
