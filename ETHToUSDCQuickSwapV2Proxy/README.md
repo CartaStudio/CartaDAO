@@ -1,4 +1,4 @@
-# DelegatableVault
+# ETHToUSDCQuickSwapV2Proxy
 
 Base smart contract of the [Carta DAO](https://cartadao.io) protocol.
 
