@@ -40,6 +40,9 @@ A helper smart contract with read-only functionality, providing structured asset
 #### UniswapV2Pair
 A smart contract created by the Quickswap v2 protocol, allowing for the swapping of ERC-20 tokens. Manages the liquidity of Carta Coin paired with USDC stablecoin. [Read More](UniswapV2Pair)
 
+#### ETHToUSDCQuickSwapV2Proxy
+A smart contract that enables the best possible conversion of MATIC into USDC via QuickSwap v2. It acts as an intermediary between the users and the masterchief smart contract. [Read More](ETHToUSDCQuickSwapV2Proxy)
+
 ***
 
 ### Controller Smart Contracts
