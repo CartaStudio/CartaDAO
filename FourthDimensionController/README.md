@@ -1,4 +1,4 @@
-# SoulBoundController
+# FourthDimensionController
 
 Controller smart contract of the [Carta DAO](https://cartadao.io) protocol.
 
