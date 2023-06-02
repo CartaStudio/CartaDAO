@@ -58,3 +58,6 @@ Allows the buying and selling of Generative NFTs through a built-in DEX, and ena
 
 #### SoulBoundController
 Allows SoulBound NFTs to be minted for token gating, character generation, and claiming Carta Coin rewards for generating them. [Read More](SoulBoundController)
+
+#### FourthDimensionController
+Allows the buying and selling of NFTs through a built-in 4D DEX and the claiming of Carta Coins. [Read More](FourthDimensionController)
